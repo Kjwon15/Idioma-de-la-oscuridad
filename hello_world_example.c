@@ -1,4 +1,4 @@
-#incldue <dark_lang.h>
+#include "dark_lang.h" //헤더위치는 알아서 
 
 32식주술체 소환.{
   외쳐라!_("나의 부름에 응하라 세카이여!");
