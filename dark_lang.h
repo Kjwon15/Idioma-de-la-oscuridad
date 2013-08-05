@@ -15,13 +15,17 @@
 #define 외쳐라!_ printf
 
 //num
-#define 블랙홀 0.
+#define 블랙홀 0
+#define 수직선상 1
+#define 이계 2
 
 //etc..
 #define 소환. main
-#define 재봉인.
+#define 재봉인. return 
 
 //sepcial letters
+#define 봉인해제 {
+#define 이것으로_연성진을_마무리. }
 
 //Hot_string
 #define 나의부름에응하라 hello
